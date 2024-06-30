@@ -11,5 +11,5 @@ int main (void)
 
     e = number * 3;
 
-    printf("The calculation is: %d ", number);
+    printf("The calculation is:  %d ", e);
 }
